@@ -1,0 +1,11 @@
+geopandas
+libpysal
+networkx
+python-igraph
+leidenalg
+numpy
+pandas
+scipy
+scikit-learn
+pyproj
+openpyxl

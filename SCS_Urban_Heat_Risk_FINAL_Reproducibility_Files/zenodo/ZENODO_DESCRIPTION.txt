@@ -1,0 +1,8 @@
+Title:
+Spatial Networks of Urban Surface Heat Risk: Reproducibility and Data Package
+
+Description:
+Reproducibility materials supporting the study “Spatial Networks of Urban Surface Heat Risk: Connectivity, Communities and Neighbourhood Reinforcement across Four West African Coastal Cities.” The workflow integrates 2024 Sentinel-2 land-use/land-cover classification, Landsat 8/9 land-surface temperature and spectral indices, a normalized Heat Risk Index, 500 m spatial grids, environmental-similarity weighted spatial networks, centrality analysis, Leiden community detection, graph-based HRI propagation and sensitivity analysis for Accra, Lagos, Abidjan and Freetown.
+
+Keywords:
+urban heat; spatial networks; land surface temperature; remote sensing; heat risk; West Africa; Google Earth Engine; Leiden community detection

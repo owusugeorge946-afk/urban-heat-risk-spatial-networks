@@ -1,0 +1,5 @@
+City,Nodes,Candidate_edges,Retained_edges,Overall_accuracy_pct,Kappa,Total_samples,Training_samples,Validation_samples
+Accra,14841,58153,50160,92.31,0.857,904,618,286
+Lagos,15112,59064,47848,84.07,0.732,1011,716,295
+Abidjan,8702,34046,28142,80.37,0.733,511,348,163
+Freetown,393,1396,1262,96.01,0.938,884,608,276

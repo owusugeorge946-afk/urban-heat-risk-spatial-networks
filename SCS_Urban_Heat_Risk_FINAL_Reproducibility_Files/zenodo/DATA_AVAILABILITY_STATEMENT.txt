@@ -1,0 +1,3 @@
+Data availability
+
+The Sentinel-2 and Landsat datasets used in this study are publicly available through the Google Earth Engine Data Catalog. The derived datasets, processed statistics, analytical scripts and supporting reproducibility materials are available through Zenodo at: [INSERT ZENODO DOI/URL AFTER DEPOSIT].
